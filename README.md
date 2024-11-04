@@ -83,9 +83,10 @@ Com base nos resultados obtidos e obsservando a eficácia do modelo construído,
 Isso mostra a necessidade de explorar outras fontes ou outras variáveis no contexto ESG-finanças no geral, e também evidencia a falta de pesquisas e fontes de dados em torno desse assunto em uma escala maior. Esse tipo de pesquisa sobre os níveis de ESG pode ter grande potencial quando combinado com indicadores financeiros, fatores macroeconômicos ou métricas de desempenho das empresas.
 Apesar das várias tentativas de melhoria, o modelo não atingiu um desempenho satisfatório. A baixa capacidade preditiva pode ser atribuída à escolha das variáveis, à natureza dos dados ou à necessidade de modelos mais complexos.
   
-Além disso, a análise realizada ao longo deste projeto destacou a dificuldade em obter dados suficientemente aprofundados sobre as ações ESG das empresas, bem como a falta de domínio no campo do mercado financeiro, o que limitou nossa capacidade de conduzir uma análise mais robusta. Os resultados do modelo preditivo indicaram que, apesar dos esforços para ajustar e normalizar os dados, a relação entre as variáveis ESG e os preços das ações não foi suficientemente elucidativa. Essa experiência ressalta a importância de continuar a pesquisa em busca de fontes de dados mais abrangentes e confiáveis, que permitam uma compreensão mais profunda das dinâmicas entre os desempenhos ESG e o comportamento do mercado financeiro. O conhecimento adquirido neste projeto servirá como base para futuras investigações, visando aprimorar as análises e a interpretação dos impactos ESG no valor das ações.
+Além disso, a análise realizada ao longo deste projeto destacou a dificuldade em obter dados suficientemente aprofundados sobre as ações ESG das empresas, bem como a falta de domínio no campo do mercado financeiro, o que limitou nossa capacidade de conduzir uma análise mais robusta. Os resultados do modelo preditivo indicaram que, apesar dos esforços para ajustar e normalizar os dados, a relação entre as variáveis ESG e os preços das ações não foi suficientemente elucidativa. Essa experiência ressalta a importância de continuar a pesquisa em busca de fontes de dados mais abrangentes e confiáveis, que permitam uma compreensão mais profunda das dinâmicas entre os desempenhos ESG e o comportamento do mercado financeiro..
 
-- **Próximos Passos**:
+- **Inferimentos**:
+- Reflexões, aprendizados e ideias para a continuidade do projeto:
 
 **1. Incluir Variáveis Financeiras Complementares**
   
@@ -110,13 +111,12 @@ Analisar também os efeitos de padrões e normas de ESG para cada setor, o que p
 **5. Desenvolvimento de uma Base de Dados ESG Proprietária**
 
 Coleta e Pesquisa de Dados Primários: Realizar pesquisas que coletam dados primários diretamente das empresas, incluindo detalhes mais específicos sobre práticas de ESG que não estão em datasets públicos. Por exemplo, informações sobre práticas de sustentabilidade em cadeias de fornecimento, políticas internas de bem-estar, ações concretas de diversidade e inclusão, e iniciativas de inovação ecológica.
-Feedback do Consumidor e de Stakeholders: Criar uma base de dados que inclua não só a visão da empresa sobre suas práticas ESG, mas também percepções do público e de stakeholders. Isso poderia ser feito por meio de pesquisas, questionários de satisfação e plataformas de feedback.
+Feedback do Consumidor e de Stakeholders: 
+
+Criar uma base de dados que inclua não só a visão da empresa sobre suas práticas ESG, mas também percepções do público e de stakeholders. Isso poderia ser feito por meio de pesquisas, questionários de satisfação e plataformas de feedback.
+
 Integração com Dados Públicos e Governamentais: Consolidar dados abertos e de políticas ESG de fontes governamentais e reguladoras em um formato padronizado, permitindo cruzamento com dados financeiros e operacionais.
 
-**6. Criação de um Painel Público para Avaliação ESG**
-
-Desenvolver um painel interativo acessível ao público, que exiba as pontuações ESG das empresas em tempo real, agregando a perspectiva do consumidor e dos stakeholders sobre o desempenho das empresas. Esse painel poderia incluir um “índice de reputação ESG”, derivado de dados de mídia e de redes sociais.
-Integrar funcionalidades para que os usuários possam explorar cenários hipotéticos, observando como diferentes ações de ESG podem influenciar no valor das empresas a médio e longo prazo.
 
 ## Conclusão
 A longo prazo, a criação de uma base de dados mais detalhada e com coleta ativa, complementada por dados financeiros avançados, forneceria uma base sólida para análises ESG profundas e predições precisas. Além de tornar a modelagem mais robusta, essa base de dados poderia se tornar uma fonte confiável para acadêmicos, investidores e stakeholders interessados em ESG, contribuindo para a conscientização e transformação das práticas de mercado.
