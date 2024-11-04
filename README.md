@@ -88,7 +88,7 @@ Apesar das várias tentativas de melhoria, o modelo não atingiu um desempenho s
 Além disso, a análise realizada ao longo deste projeto destacou a dificuldade em obter dados suficientemente aprofundados sobre as ações ESG das empresas, bem como a falta de domínio no campo do mercado financeiro, o que limitou nossa capacidade de conduzir uma análise mais robusta. Os resultados do modelo preditivo indicaram que, apesar dos esforços para ajustar e normalizar os dados, a relação entre as variáveis ESG e os preços das ações não foi suficientemente elucidativa. Essa experiência ressalta a importância de continuar a pesquisa em busca de fontes de dados mais abrangentes e confiáveis, que permitam uma compreensão mais profunda das dinâmicas entre os desempenhos ESG e o comportamento do mercado financeiro. O conhecimento adquirido neste projeto servirá como base para futuras investigações, visando aprimorar as análises e a interpretação dos impactos ESG no valor das ações.
 
 - **Próximos Passos**:
-- 
+
 **1. Incluir Variáveis Financeiras Complementares**
   
 Acrescentar dados financeiros e operacionais além do preço das ações, como EBITDA, dívida líquida, fluxo de caixa e lucro por ação (EPS), que podem ter uma correlação mais forte com o valor das ações e dar ao modelo uma base mais ampla para capturar relações.
@@ -120,6 +120,5 @@ Integração com Dados Públicos e Governamentais: Consolidar dados abertos e de
 Desenvolver um painel interativo acessível ao público, que exiba as pontuações ESG das empresas em tempo real, agregando a perspectiva do consumidor e dos stakeholders sobre o desempenho das empresas. Esse painel poderia incluir um “índice de reputação ESG”, derivado de dados de mídia e de redes sociais.
 Integrar funcionalidades para que os usuários possam explorar cenários hipotéticos, observando como diferentes ações de ESG podem influenciar no valor das empresas a médio e longo prazo.
 
-
-##Conclusão
+## Conclusão
 A longo prazo, a criação de uma base de dados mais detalhada e com coleta ativa, complementada por dados financeiros avançados, forneceria uma base sólida para análises ESG profundas e predições precisas. Além de tornar a modelagem mais robusta, essa base de dados poderia se tornar uma fonte confiável para acadêmicos, investidores e stakeholders interessados em ESG, contribuindo para a conscientização e transformação das práticas de mercado.
