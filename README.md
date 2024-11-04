@@ -19,15 +19,13 @@ The ESG and Stocks data of S&P 500 Constituent Companies
 (https://www.kaggle.com/datasets/rikinzala/s-and-p-500-esg-and-stocks-data-2023-24/data?select=sp500_esg_data.csv),
 contendo: 'sp500_esg_data.csv' e 'sp500_price_data.csv'
 
-, que contém registros de várias empresas, representadas pela coluna `Symbol`, junto com suas respectivas pontuações ESG e preços de ações. Adicionalmente, foi feita uma análise de comparação usando o dataset disponível em Kaggle - Public Company ESG Ratings Dataset e a biblioteca yfinance do Python, permitindo analisar e comparar o crescimento do preço na bolsa de valores e os níveis ESG de duas empresas diferentes com base em seus tickers.
-
 
 - **Limpeza de Dados**:
-Boa parte da análise de deu por meio do primeiro dataset mencionado em relação aos dados do yfinance. Após tentativas de normalizar os os dados de ambas as fontes,  mantendo apenas um registro por empresa, selecionando aquele com o valor máximo na coluna `Price`.
+Boa parte da análise se deu por meio do primeiro dataset mencionado em conjunto com os dados do yfinance. Foi feita uma análise de comparação usando o dataset disponível em Kaggle - Public Company ESG Ratings Dataset e a biblioteca yfinance do Python, permitindo analisar e comparar o crescimento do preço na bolsa de valores e os níveis ESG de duas empresas diferentes com base em seus tickers
 
 Enfrentamos diversos desafios ao tentar realizar a fusão entre os dados da biblioteca yfinance e o conjunto de dados ESG. O formato distinto de cada uma das fontes impediu a combinação adequada dos tickers, que representam as siglas das empresas. Além disso, a presença de dados faltantes limitou nossa capacidade de realizar análises abrangentes para todas as empresas que possuem níveis de ESG registrados. 
 
-Como resultado, optamos por utilizar um outro conjunto de dados, que ofereceu uma fonte financeira mais completa e coerente, permitindo a fusão das duas bases sem complicações. Apesar dessa mudança, decidimos preservar algumas análises gráficas realizadas com as informações anteriores, uma vez que elas forneceram visualizações valiosas sobre a relação entre os níveis de ESG e os preços das ações no mercado para as empresas analisadas.
+Como resultado, optamos por utilizar um outro conjunto de dados, o S&P 500 ESG and Stocks Data 2023-24, que ofereceu uma fonte financeira mais completa e coerente, permitindo a fusão das duas bases sem complicações. Apesar dessa mudança, decidimos preservar algumas análises gráficas realizadas com as informações anteriores, uma vez que elas forneceram visualizações valiosas sobre a relação entre os níveis de ESG e os preços das ações no mercado para as empresas analisadas.
 
 ### 2. Análise Inicial
 **Primeiras Análises**
