@@ -85,8 +85,8 @@ Apesar das várias tentativas de melhoria, o modelo não atingiu um desempenho s
   
 Além disso, a análise realizada ao longo deste projeto destacou a dificuldade em obter dados suficientemente aprofundados sobre as ações ESG das empresas, bem como a falta de domínio no campo do mercado financeiro, o que limitou nossa capacidade de conduzir uma análise mais robusta. Os resultados do modelo preditivo indicaram que, apesar dos esforços para ajustar e normalizar os dados, a relação entre as variáveis ESG e os preços das ações não foi suficientemente elucidativa. Essa experiência ressalta a importância de continuar a pesquisa em busca de fontes de dados mais abrangentes e confiáveis, que permitam uma compreensão mais profunda das dinâmicas entre os desempenhos ESG e o comportamento do mercado financeiro..
 
-- **Inferimentos**:
-- Reflexões, aprendizados e ideias para a continuidade do projeto:
+## Inferimentos
+Reflexões, aprendizados e ideias para a continuidade do projeto:
 
 **1. Incluir Variáveis Financeiras Complementares**
   
