@@ -12,7 +12,7 @@ ESG ratings for over 700 mid / large-cap companies across various industries
 (dataset https://www.kaggle.com/datasets/alistairking/public-company-esg-ratings-dataset),
 contendo: 'data.csv'
 
--biblioteca yfinance do Python: permite a extração de dados financeiros de várias fontes, como Yahoo Finance
+- Biblioteca yfinance do Python: permite a extração de dados financeiros de várias fontes, como Yahoo Finance
 
 - S&P 500 ESG and Stocks Data 2023-24
 The ESG and Stocks data of S&P 500 Constituent Companies
