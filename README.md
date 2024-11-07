@@ -3,6 +3,10 @@
 ## Introdução
 Este projeto tem como objetivo criar um modelo preditivo para estimar o preço das ações de empresas, utilizando variáveis relacionadas ao desempenho ambiental, social e de governança (ESG). O modelo foi desenvolvido a partir de um conjunto de dados que inclui pontuações ESG e informações financeiras de diversas empresas.
 
+A ideia do projeto como um todo, apresentado pela primeira vez e elaborado a partir do segundo semestre, gira em torno de um aplicativo de consultoria de ESG para empresas que desejam melhorar seus níveis de conformidade com práticas sustentáveis e de bom impacto social e de governança. Para tanto, precisam de insights produtivos, inteligentes e coerentes. 
+
+A ideia do modelo apresentado neste repositório é um exemplo de como - por meio de análises, comparações e predições - aprensentar ao cliente possíveis caminhos para não apenas aumentar o impacto positivo da sua empresa no mundo, mas também gerar lucro e aumentar seu valor no mercado.
+
 ## Etapas do Projeto
 
 ### 1. Coleta e Preparação de Dados
